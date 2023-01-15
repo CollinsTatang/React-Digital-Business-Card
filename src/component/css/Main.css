@@ -1,0 +1,49 @@
+main {
+    background-color: #23252C;
+}
+
+img {
+    width: 317px;
+    height: 317px;
+    padding-top: 44px;
+    padding-left: 11px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.submain {
+    background-color: #1A1B21;
+}
+
+.submain > h3 {
+    font-family: Inter;
+    font-style: bold;
+    font-size: 25px;
+    line-height: 30px;
+    line-height: 100%;
+    align-items: center;
+    vertical-align: top;
+    color: white;
+}
+
+.submain > h5 {
+    color: #F3BF99;
+    align-items: center;
+    font-family: Inter;
+    font-style: Reguler;
+    font-size: 12.8px;
+    line-height: 15.49px;
+    line-height: 100%;
+    vertical-align: top;
+}
+
+.submain > h6 {
+    font-family: Inter;
+    font-size: 10.24px;
+    font-style: Regular;
+    line-height: 15px;
+    line-height: 150%;
+    color: #F5F5F5;
+    align-items: center;
+    vertical-align: top;
+}
