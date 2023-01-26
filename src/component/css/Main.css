@@ -11,7 +11,11 @@ img {
     border-top-right-radius: 10px;
 }
 
-.submain {
+.mainContent {
+    width: 100%;
+    height: auto;
+    padding-left: 16px;
+    padding-top: 61px;
     background-color: #1A1B21;
 }
 
@@ -42,8 +46,28 @@ img {
     font-size: 10.24px;
     font-style: Regular;
     line-height: 15px;
-    line-height: 150%;
     color: #F5F5F5;
     align-items: center;
-    vertical-align: top;
+    
 }
+ .content > h3 {
+    font-family: Inter;
+    font-style: bold;
+    font-size: 25px;
+    line-height: 30px;
+    color: white;
+    align-items: center;
+ }
+ .content > p {
+    width: 247px;
+    height: 61px;
+    padding-top: 40px;
+    padding-left: 350px;
+    font-weight: 400px;
+    font-family: Inter;
+    font-style: regular;
+    font-size: 10.24px;
+    line-height: 15.36px;
+    align-items: center;
+    color: #DCDCDC;
+ }
