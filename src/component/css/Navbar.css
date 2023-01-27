@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+ 
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #21222A;
+    height: 80px;
+    padding: 30px 25px;
+    color: white;
+    width: 100%;
+}
+
+.navbar > h1 {
+    margin-right: auto;
+    padding-left: 15px;
+}
+
+.nav-items {
+    display: flex;
+    list-style: none;
+}
+
+.nav-items > li {
+    padding: 10px;
+}
+
+ .nav-logo {
+    max-width: 100px;
+ }
